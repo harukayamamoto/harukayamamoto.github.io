@@ -213,6 +213,9 @@ section h2
 {
     position: relative;
     display: block;
+    clear: both;
+
+    content: '';
 }
 #works .works-box a .works-box-inner
 {
